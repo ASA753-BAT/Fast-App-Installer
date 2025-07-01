@@ -8,7 +8,8 @@ This project provides a `.bat` (batch) script that allows Windows users to easil
 - Easy-to-use text-based menu interface
 - Fast, secure, and automatic installations using `winget`
 - Option to install multiple applications in sequence
-
+https://github.com/ASA753-BAT/Fast-App-Installer/blob/fe7c21d6bd910d3f8db788a1d13b00b3550fc89f/example.png
+![Fast App Installer](https://github.com/ASA753-BAT/Fast-App-Installer/blob/fe7c21d6bd910d3f8db788a1d13b00b3550fc89f/example.png)
 ## 💻 Requirements
 
 - Windows 10 or 11 operating system
